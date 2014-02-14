@@ -1,0 +1,16 @@
+{
+  "name": "MEANDemo",
+  "version": "0.0.0",
+  "authors": [
+    "rajkrishnap <rajjes1@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.1",
+    "angular": "~1.2.12",
+    "angular-resource": "~1.2.12",
+    "angular-route": "~1.2.12"
+  }
+}
